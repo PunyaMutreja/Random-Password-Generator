@@ -10,7 +10,7 @@ The Random Password Generator is a simple and efficient tool to create strong an
 ## Features
 
 - Customizable Length: Specify the desired length of your password.
-- Character Types: Include or exclude uppercase letters, lowercase letters, digits, and special characters.
+- Character Types: lowercase/uppercase letters, digits, and special characters.
 - User-Friendly Interface: Simple command-line interface for easy usage.
 
 
