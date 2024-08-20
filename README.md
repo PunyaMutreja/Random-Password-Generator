@@ -20,7 +20,7 @@ The Random Password Generator is a simple and efficient tool to create strong an
  - Tailwind CSS
  - Javascript
 
-##Want to try it out??
+## Want to try it out??
  -https://random-password-generator-punyamutrejas-projects.vercel.app/
 
 
